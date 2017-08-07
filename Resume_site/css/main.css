@@ -1,0 +1,41 @@
+body{
+	background:#f9f9f9;
+	  border: 30px solid black;
+	 font-family: assistant;
+}
+h1{
+	font-size:50px;
+	margin: 40px 0 20px 40px;
+	
+
+}
+img{
+	/*margin-left:40px;*/
+}
+p{
+	width:400px;
+	margin: 40px 30px 20px 40px;
+	line-height: 30px
+}
+.top-img{
+	margin-top:40px;
+}
+h3{
+	margin-top:80px;
+	font-weight: light;
+	margin-left:40px;
+}
+ul{
+	margin-left:40px;
+}
+h2{
+	margin-top:80px;
+	margin-left:40px;
+}
+.image-container{
+	margin-left:40px;
+	margin-bottom: 130px;
+}
+.image-container img {
+	margin-right:10px;
+}
